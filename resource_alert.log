@@ -1,0 +1,7 @@
+2024-11-26 23:20:00,974 - WARNING - Alert: Potential DDoS Attack detected! Initiating mitigation actions.
+2024-11-26 23:20:00,975 - INFO - Scaling action: Scaling additional servers by 20%
+2024-11-26 23:20:26,452 - INFO - Traffic is normal. No action required.
+2024-11-26 23:20:26,512 - INFO - Traffic is normal. No action required.
+2024-11-26 23:20:26,580 - INFO - Traffic is normal. No action required.
+2024-11-26 23:20:26,649 - INFO - Traffic is normal. No action required.
+2024-11-26 23:20:26,706 - INFO - Traffic is normal. No action required.
